@@ -98,8 +98,6 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Inspiration or code snippets
 
 
-```
-
 Make sure to replace `"data.json"` with the actual filename of your JSON data file.
 
 

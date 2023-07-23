@@ -3,6 +3,8 @@
 
 The `Hakoniwa` class is a Python class designed to handle JSON data stored in a file. It provides methods to parse JSON, search for specific records, insert new records, and update existing records.
 
+Switch to Master 
+
 ## Usage
 
 To use the `Hakoniwa` class, follow these steps:
